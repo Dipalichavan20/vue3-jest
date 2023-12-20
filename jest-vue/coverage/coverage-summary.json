@@ -1,0 +1,3 @@
+{"total": {"lines":{"total":35,"covered":33,"skipped":0,"pct":94.28},"statements":{"total":43,"covered":37,"skipped":0,"pct":86.04},"functions":{"total":10,"covered":8,"skipped":0,"pct":80},"branches":{"total":40,"covered":21,"skipped":0,"pct":52.5},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
+,"C:\\Users\\dipalich\\Desktop\\vue3\\hello-world\\src\\components\\HelloWorld.vue": {"lines":{"total":35,"covered":33,"skipped":0,"pct":94.28},"functions":{"total":10,"covered":8,"skipped":0,"pct":80},"statements":{"total":43,"covered":37,"skipped":0,"pct":86.04},"branches":{"total":40,"covered":21,"skipped":0,"pct":52.5}}
+}
